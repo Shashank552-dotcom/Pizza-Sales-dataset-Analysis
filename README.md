@@ -33,6 +33,23 @@ This project focuses on analyzing sales trends in a fictional pizza restaurant. 
 
 ---
 
+## 📊 Supporting Excel Visuals
+
+Here’s a sample of Excel-based visualizations used during the initial data exploration:
+
+![Excel Charts](Excell_charts.png)
+
+---
+
+## 📂 Project Presentation
+
+📽️ A PowerPoint summary of the dashboard insights is available for download:
+
+➡️ [Download Pizza Sales Dashboard Analysis PPTX](Pizza_Sales_Dashboard_Analysis.pptx)
+
+
+---
+
 ## 🔍 Key Insights
 
 - **Large Pepperoni** is the highest-selling item by revenue  
