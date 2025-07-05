@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Dashboard
 
-Interactive dashboard project using **Excel**, **SQL**, and **Tableau** to analyze and optimize pizza sales performance.
+Interactive dashboard project using **Excel**, **SQL**, and **Tableau & PowerBI** to analyze and optimize pizza sales performance.
 
 ---
 
@@ -23,7 +23,7 @@ This project focuses on analyzing sales trends in a fictional pizza restaurant. 
 
 - **Excel** – Data cleaning, formatting, and basic analysis  
 - **SQL** – Querying sales metrics and aggregations  
-- **Tableau** – Dashboard development and storytelling  
+- **Tableau , PowerBI** – Dashboard development and storytelling  
 
 ---
 
