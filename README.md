@@ -1,39 +1,56 @@
-# Pizza-Sales-dataset-Analysis
-Interactive dashboard project using Excel, SQL, and Tableau to analyze and optimize pizza sales performance.
-# 🍕 Pizza Sales Dashboard Project
+# 🍕 Pizza Sales Dashboard
 
-A real-world data analysis project designed to explore pizza sales trends and performance using **Excel**, **SQL**, and **Tableau**. The goal is to identify insights that can improve revenue, optimize menu performance, and guide business decisions.
+Interactive dashboard project using **Excel**, **SQL**, and **Tableau** to analyze and optimize pizza sales performance.
+
+---
+
+## 📊 Project Overview
+
+This project focuses on analyzing sales trends in a fictional pizza restaurant. The data was explored and visualized to uncover patterns in customer behavior, top-selling products, and operational efficiency.
 
 ---
 
 ## 🎯 Objectives
 
-- Analyze pizza sales by category, size, and toppings
-- Track KPIs like Total Revenue, Average Order Value, and Top-Selling Items
-- Identify peak sales hours, days, and seasons
-- Recommend strategies to increase sales and profitability
+- Explore sales across pizza types, sizes, and days
+- Calculate key KPIs: Total Revenue, Average Order Value, Top Products
+- Identify peak sales hours and days for business optimization
+- Build a Tableau dashboard with filters for interactive exploration
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tools Used
 
-- **Excel** – Data cleaning and initial exploration  
-- **SQL** – Data transformation and KPI calculation  
-- **Tableau** – Interactive dashboard with filters and visual storytelling
+- **Excel** – Data cleaning, formatting, and basic analysis  
+- **SQL** – Querying sales metrics and aggregations  
+- **Tableau** – Dashboard development and storytelling  
 
 ---
 
-## 📊 Dashboard Preview
+## 📷 Dashboard Preview
 
-![Dashboard Preview](pizza_dashboard_preview.png)
+![Dashboard Preview](pizza_dashboard_preview.png.png)
+
+---
+
+## 🔍 Key Insights
+
+- **Large Pepperoni** is the highest-selling item by revenue  
+- **Saturday evenings** see the highest order volumes  
+- Targeted promotions during **weekdays** can boost average order value  
+- **Veggie pizzas** perform well among medium-sized orders
 
 ---
 
 ## 📂 Project Structure
 
-/Excel_Cleanup/ → Excel sheets for raw and cleaned data
-/SQL_Scripts/ → SQL queries for key metrics
-/Tableau_Dashboard/ → .twbx file with interactive dashboard
+Pizza Sales Dashboard/
+│
+├── Excel/ # Raw and cleaned datasets
+├── SQL_Scripts/ # SQL queries for insights
+├── Tableau/ # .twbx Tableau dashboard file
+├── Screenshots/ # Dashboard images
+└── Pizza Sales Dashboard Analysis.pptx # Summary presentation
 
 yaml
 Copy
@@ -41,16 +58,17 @@ Edit
 
 ---
 
-## 📌 Key Insights
-
-- **Pepperoni Pizza** and **Large Size** are the highest contributors to revenue  
-- Weekends show the highest order volume  
-- Optimizing for peak hours can boost delivery efficiency and revenue
-
----
-
 ## 📫 Contact
 
 **Shashank Bajpai**  
 📧 [shashankax0@gmail.com]  
-🔗 [www.linkedin.com/in/shashank-bajpai-53871222a]
+🔗 [LinkedIn Profile](www.linkedin.com/in/shashank-bajpai-53871222a)
+
+---
+
+Let me know if you'd like me to:
+- Help update your `README.md` directly from this
+- Auto-rename the repo (how-to)
+- Prepare the next project (like stock analysis or ecommerce)
+
+Happy to assist!
