@@ -30,6 +30,14 @@ This project focuses on analyzing sales trends in a fictional pizza restaurant. 
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](pizza_dashboard_preview.png.png)
+---
+
+## 📊 Tableau Dashboard Preview
+
+Below is a snapshot of the interactive Tableau dashboard built for the Pizza Sales Analysis project:
+
+![Pizza Sales Tableau Dashboard](Pizzasales_Dashboard_tableau%20preview.png.png)
+
 
 ---
 
