@@ -87,7 +87,7 @@ Edit
 
 **Shashank Bajpai**  
 📧 [shashankax0@gmail.com]  
-🔗 [LinkedIn Profile](www.linkedin.com/in/shashank-bajpai-53871222a)
+🔗 (www.linkedin.com/in/shashank-bajpai-53871222a)
 
 ---
 
